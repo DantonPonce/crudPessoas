@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tvH/1gH3risOI/Ez7/6YgkXQeD8CCWTQcDR4eFSFOxo7/yJ1PtEjvsBEp6vkCb3kHx6oen1lxSKXQVkWPtAFDw==",
+  "dgSpecHash": "QYN1+qqChQi9PsEt9OtOkicnVv7ht37G17I+8uLGPJwy2sSRk1dWxqQBSW1bl+Hx2NeRD83Q/rDLUid8TJ2YBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\d.ponce\\Documents\\Estudo\\Angular e .NET\\CRUDAPI\\CRUDAPI.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.12\\microsoft.entityframeworkcore.analyzers.5.0.12.nupkg.sha512",
     "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.12\\microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
     "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.12\\microsoft.entityframeworkcore.relational.5.0.12.nupkg.sha512",
-    "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.10\\microsoft.entityframeworkcore.sqlserver.5.0.10.nupkg.sha512",
+    "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
     "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.12\\microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
     "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\d.ponce\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
